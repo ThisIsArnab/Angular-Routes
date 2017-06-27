@@ -96,7 +96,6 @@
     <TypeScriptCompile Include="src\app\app.component.ts" />
     <TypeScriptCompile Include="src\app\app.module.ts" />
     <TypeScriptCompile Include="src\app\crisis-list.component.ts" />
-    <TypeScriptCompile Include="src\app\hero-list.component.ts" />
     <TypeScriptCompile Include="src\app\heroes\hero-detail.component.ts" />
     <TypeScriptCompile Include="src\app\heroes\hero-list.component.ts" />
     <TypeScriptCompile Include="src\app\heroes\hero.service.ts" />
