@@ -97,6 +97,11 @@
     <TypeScriptCompile Include="src\app\app.module.ts" />
     <TypeScriptCompile Include="src\app\crisis-list.component.ts" />
     <TypeScriptCompile Include="src\app\hero-list.component.ts" />
+    <TypeScriptCompile Include="src\app\heroes\hero-detail.component.ts" />
+    <TypeScriptCompile Include="src\app\heroes\hero-list.component.ts" />
+    <TypeScriptCompile Include="src\app\heroes\hero.service.ts" />
+    <TypeScriptCompile Include="src\app\heroes\hero.ts" />
+    <TypeScriptCompile Include="src\app\heroes\heroes.module.ts" />
     <TypeScriptCompile Include="src\app\not-found.component.ts" />
     <TypeScriptCompile Include="src\main.ts" />
   </ItemGroup>
